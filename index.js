@@ -1,5 +1,5 @@
-var number = 10
+var n = 10
 
-function add5() {
-  return number += 5
+function add(n,n) {
+  return n += n
 }
